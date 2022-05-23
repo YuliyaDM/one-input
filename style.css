@@ -185,7 +185,7 @@ html, body{
     width: 200px;
     height: 200px;
     border-radius: 50%;
-    background: black;
+    background: #d7efff;
     animation: animate 2s ease 0s infinite;
     transition: 1s all ease 0s;
 }
